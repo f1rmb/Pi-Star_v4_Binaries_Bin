@@ -40,7 +40,7 @@ if [[ ${modelName} == "ARM"* ]]; then
 	*920092) raspberryVer="Pi Zero Rev 1.2 (512MB)";;
 	*920093) raspberryVer="Pi Zero Rev 1.3 (512MB)";;
 	*900061) raspberryVer="Compute Module 1 Rev 1.1";;
-	*902120) raspberryVer="Pi Zero 2 Rev 1.0 (512MB)";;
+	*902120) raspberryVer="Pi Zero 2 W Rev 1.0 (512MB)";;
 	*a01040) raspberryVer="Pi 2 Model B (1GB), Sony, UK";;
 	*a01041) raspberryVer="Pi 2 Model B (1GB), Sony, UK";;
 	*a02082) raspberryVer="Pi 3 Model B (1GB), Sony, UK";;
